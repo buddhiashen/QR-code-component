@@ -1,6 +1,7 @@
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+live demo here:- https://buddhiashen.github.io/QR-code-component/
 
 ## Welcome! 👋
 
